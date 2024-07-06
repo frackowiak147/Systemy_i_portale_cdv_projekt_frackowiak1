@@ -9,7 +9,11 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.6" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-    <Compile Include="Models\Person.cs"/>
+    <Compile Include="Program.cs" />
+    <Compile Include="Startup.cs" />
+    <!-- other files -->
+    <Compile Include="Models/Person.cs" />
+    <!-- other files -->
   </ItemGroup>
 
 </Project>
