@@ -1,9 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
+using AzureWebsite.Api.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using AzureWebsite.Api.Models;
+
 
 namespace AzureWebsite.Api.Controllers
 {
